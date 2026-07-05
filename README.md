@@ -9,7 +9,6 @@ using Power BI Desktop.
 |---|---|
 | `superstore_sales.csv` | Sales dataset used (Region, Category, Sales, Profit, etc.) |
 | `superstore_dashboard.pdf` | Exported dashboard (all charts) |
-| `dashboard_screenshot.png` | Screenshot backup of the dashboard |
 | `README.md` | This file |
 
 ## Tool Used
